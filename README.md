@@ -1,16 +1,5 @@
 # GradeFlow - Internal Assessment Management System
 
-## Table of Contents
-1. [Project Overview](#project-overview)
-2. [Features](#features)
-3. [Technology Stack](#technology-stack)
-4. [System Architecture](#system-architecture)
-5. [Installation](#installation)
-6. [Usage](#usage)
-7. [Implementation Details](#implementation-details)
-8. [Security](#security)
-9. [Future Enhancements](#future-enhancements)
-
 ## Project Overview
 
 ### Introduction
@@ -75,6 +64,3 @@ Traditional methods of managing internal assessment marks face several challenge
 - VS Code
 - npm
 
-## System Architecture
-
-### Database Schema
